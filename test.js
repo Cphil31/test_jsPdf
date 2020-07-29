@@ -10,5 +10,7 @@ window.onload = function () {
         doc.text('Hello world!', 10, 10);
         doc.save('a4.pdf');
     });
-
+    let a = 0; 
+    a += 2;
+    console.log(b);
 }
